@@ -19,6 +19,10 @@
   - Initialize Selected : Creates Files and Folders. 
   
  notes
+  - Latest shot note to task : Duplicate a note on shot level to task level
+  - Latest task note to all other tasks : Duplicate a note to all other tasks for a given shot
+  - Shot Description as task note : Get shot description and make it a note
+ 
  
  open-output
  
