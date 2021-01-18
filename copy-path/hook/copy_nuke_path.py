@@ -3,6 +3,7 @@ Copy Nuke Path Ftrack Hook
 Alican Sesli - LUX VFX - 03.12.2019
 Copies the latest path of a work file to clipboard.
 '''
+
 import logging
 import ftrack_api
 import os
