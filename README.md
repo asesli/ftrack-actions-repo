@@ -30,15 +30,16 @@
   - open_folder : Opens the task directory
   - open_plates : Opens the plate directory
 
-
  package
   - Shot : Packages an entire shot to be used as a standalone shot in a non-studio environment. Useful for Archiving a shot and all the assets taht is being sourced by the latest nuke file. 
   - MatchMove : Packages match-move frames and the plates that are needed to be sent off to external vendors.
   - Roto : Packages roto frames and the plates that are needed to be sent off to external vendors.
  
- qc-for-nuke : Paste the copied code into nuke's QC node. This nod then imports all the QC files to be inspected in nuke.
+ qc-for-nuke 
+  - Paste the copied code into nuke's QC node. This nod then imports all the QC files to be inspected in nuke.
  
- review-submission : Slates a given shot and uploads it to Ftract to be reviewed remotely. (Outdated.... use cineSync)
+ review-submission 
+  - Slates a given shot and uploads it to Ftract to be reviewed remotely. (Outdated.... use cineSync)
  
  slapcomp
   - Slap comps the 3d renders using plate and roto (if available)
